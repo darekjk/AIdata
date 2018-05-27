@@ -1,10 +1,10 @@
-temperatura, ból_głowy,osłabienie, nudności, grypa
-wysoka, tak, nie, tak, tak
-normalna, nie, nie, nie, nie
-normalna, nie, tak, nie, tak
-normalna, tak, tak, tak, tak
-wysoka, nie, nie, nie, nie
-b_wysoka, tak, tak, nie, tak
-normalna, nie, tak, nie, tak
-b_wysoka, tak, tak, nie, tak
-normalna, tak, nie, nie, nie
+ID, temperatura, ból_głowy,osłabienie, nudności, grypa
+1, wysoka, tak, nie, tak, tak
+2, normalna, nie, nie, nie, nie
+3, normalna, nie, tak, nie, tak
+4, normalna, tak, tak, tak, tak
+5, wysoka, nie, nie, nie, nie
+6, b_wysoka, tak, tak, nie, tak
+7, normalna, nie, tak, nie, tak
+8, b_wysoka, tak, tak, nie, tak
+9, normalna, tak, nie, nie, nie
