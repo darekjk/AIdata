@@ -1,0 +1,12 @@
+ID,Author,Thread,Length,Where Read,User Action
+1,known,follow_up,short,home,reads
+2,unknown,follow_up,short,home,reads
+3,known,new,short,home,skips
+4,known,new,long,work,skips
+5,known,new,long,work,skips
+6,unknown,new,long,home,skips
+7,unknown,follow_up,long,home,skips
+8,known,follow_up,short,home,reads
+9,unknown,follow_up,long,work,skips
+10,unknown,new,short,home,skips
+
