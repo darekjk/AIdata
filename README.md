@@ -1,6 +1,6 @@
 # AIdata
 
-The project contains data used for teaching machin learning methods.
+The project contains data used for teaching machine learning methods.
 
 Source of data:  
 https://archive.ics.uci.edu/ml/datasets/Car+Evaluation    
