@@ -1,0 +1,15 @@
+id,twardosc,kolor,wielkosc,dec
+1,miekkie,fioletowe,duże,dojrzale
+2,miekkie,zolte,duże,dojrzale
+3,miekkie,zielone,srednie,dojrzale
+4,miekkie,zielone,srednie,niedojrzale
+5,srednie,fioletowe,duże,dojrzale
+6,srednie,zolte,małe,dojrzale
+7,srednie,zolte,małe,niedojrzale
+8,srednie,zielone,srednie,niedojrzale
+9,twarde,fioletowe,srednie,dojrzale
+10,twarde,zolte,małe,dojrzale
+11,twarde,zolte,małe,niedojrzale
+12,twarde,zielone,duże,niedojrzale
+13,b_miekkie,fioletowe,srednie,przejrzale
+14,b_miekkie,zolte,duże,przejrzale
